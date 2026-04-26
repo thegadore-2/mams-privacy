@@ -6,4 +6,4 @@ Last Updated: 04-26-2026
 Camera Access: We require camera access to capture a real-time "selfie" photograph when you record attendance. This serves as required visual proof of physical presence at your assigned location.
 3. Data Storage and Security All location and photographic data collected by MAMS Attendance Monitoring is transmitted securely and stored on our internal municipal servers. This data is strictly used for payroll verification, attendance tracking, and operational compliance.
 4. Data Sharing We do not sell, rent, or share your data with any third-party advertising or analytics services. Your data is accessible only to authorized administrative and HR personnel within [Municipality/Organization Name].
-5. Contact Information For questions regarding your data or this application, please contact the Support at support@skynet-digital.com or 0977-891-7733.
+5. Contact Information For questions regarding your data or this application, please contact the Support at support@skynet-digital.com or 0919-066-1849.
