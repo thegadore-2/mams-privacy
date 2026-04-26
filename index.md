@@ -1,0 +1,9 @@
+Privacy Policy for MAMS Attendance Monitoring
+Last Updated: 04-26-2026
+1. Introduction MAMS Attendance Monitoring is a proprietary workforce management application developed exclusively for use by employees of Cebu City Hall. This application is an internal operational tool and is not intended for general public use. This Privacy Policy explains how we collect, use, and protect your information when you use the app.
+2. Information We Collect and Why To fulfill its core function as a precise attendance and field-presence system, MAMS Attendance Monitoring requires access to specific device hardware:
+Location Data (Foreground and Background): We collect your location data to verify you are within your assigned municipal work area when punching in and out. The app also periodically checks your location in the background during your active shift to confirm continued field presence. Background tracking automatically ceases when your shift ends or you punch out.
+Camera Access: We require camera access to capture a real-time "selfie" photograph when you record attendance. This serves as required visual proof of physical presence at your assigned location.
+3. Data Storage and Security All location and photographic data collected by MAMS Attendance Monitoring is transmitted securely and stored on our internal municipal servers. This data is strictly used for payroll verification, attendance tracking, and operational compliance.
+4. Data Sharing We do not sell, rent, or share your data with any third-party advertising or analytics services. Your data is accessible only to authorized administrative and HR personnel within [Municipality/Organization Name].
+5. Contact Information For questions regarding your data or this application, please contact the Support at support@skynet-digital.com or 0977-891-7733.
