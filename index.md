@@ -4,7 +4,7 @@
 **Last Updated:** July 9, 2026
 
 ## 1. Introduction
-This Privacy Policy describes how the MAMS Attendance Monitoring application ("MAMS", "the App", "we", "us") collects, uses, and protects information. MAMS is a proprietary, business-tools application issued by an employer (such as Cebu City Hall and other partner organizations) to its employees for workforce attendance tracking. It is an internal operational tool and is not intended for general public use.
+This Privacy Policy describes how the MAMS Attendance Monitoring application ("MAMS", "the App", "we", "us") collects, uses, and protects information. MAMS is a proprietary, business-tools application issued by an employer or partnering organization to its employees and workers for workforce attendance tracking. It is an internal operational tool and is not intended for general public use.
 
 ## 2. Information We Collect and Why
 To fulfill its core function as a precise attendance and field-presence system, MAMS collects the minimum information necessary:
@@ -15,7 +15,7 @@ To fulfill its core function as a precise attendance and field-presence system, 
 * **Identifiers & Device Info:** Employee ID, name, assigned area, and basic device information (model, OS) are collected to authenticate the user, map attendance records, and resolve technical support issues.
 
 ## 3. Data Storage & Transmission
-* Attendance data is stored locally on your device in an encrypted format when offline, and is synchronized to the internal municipal/employer servers when an internet connection is established.
+* Attendance data is stored locally on your device in an encrypted format when offline, and is synchronized to the employer's secure backend servers when an internet connection is established.
 * All data is transmitted securely over HTTPS connections.
 * The employing organization is the Data Controller for all records collected through MAMS. The developer acts solely as a Data Processor on behalf of the employer.
 
